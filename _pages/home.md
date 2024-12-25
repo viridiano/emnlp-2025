@@ -20,7 +20,7 @@ Please check back later for more details.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2024-12-21 | The official EMNLP 2025 website is launched.
+| 2025-01-01 | The official EMNLP 2025 website is launched.
 {: .news-table}
 
 <!--
